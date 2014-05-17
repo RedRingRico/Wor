@@ -1,0 +1,11 @@
+| WOR README |
+
+OVERVIEW
+Wor is a First Person Shooter (FPS) for Microsoft's Xbox console.  The project
+is intended to be highly optimised for the Xbox.
+
+GAMEPLAY
+The format is a level-based game with no story, just shooting things that need
+to be shot in order to attain a higher score.  Secrets are scattered around
+each level.  Players can hold more than two weapons.
+
